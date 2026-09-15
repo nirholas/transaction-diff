@@ -1,0 +1,11 @@
+{
+  "slug": "transaction-diff",
+  "name": "Transaction Diff",
+  "kind": "tooling",
+  "description": "Compare legacy, v0, and v1 transaction plans field by field and byte by byte.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
