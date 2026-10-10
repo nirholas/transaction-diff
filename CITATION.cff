@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "transaction-diff"
+abstract: "Compare legacy, v0, and v1 transaction plans field by field and byte by byte."
+repository-code: "https://github.com/nirholas/transaction-diff"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
