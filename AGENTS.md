@@ -8,7 +8,7 @@ Compare legacy, v0, and v1 transaction plans field by field and byte by byte.
 
 - Source: https://github.com/nirholas/transaction-diff
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
